@@ -10,10 +10,13 @@
 - 🛸 english level: **intermediate**
 
 ### have experience with:
-- Ktor <img width="20" height="20" src="https://plugins.jetbrains.com/files/16008/124940/icon/pluginIcon.svg"> , REST, JSON
-- *SOLID* understanding of *OOP* principles
+- Ktor <img width="20" height="20" src="https://plugins.jetbrains.com/files/16008/124940/icon/pluginIcon.svg"> , Retrofit, REST, JSON
+- OOP, *SOLID* principles
+- MVVM
+- Hilt, Koin
+- Git
 - **Room**
-- Jetpack Compose <img width="20" height="20" src="https://developer.android.com/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg">
+- Jetpack Compose <img width="20" height="20" src="https://developer.android.com/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg"> , Compose Navigation
 - Kotlin *Coroutines*
 - 🌱 currently trying to figure out how **android scoped storage** *works*
 
