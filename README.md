@@ -14,6 +14,8 @@
 - OOP, *SOLID* principles
 - MVVM
 - Hilt, Koin
+- Jetpack Navigation Component
+- ViewBinding
 - Git
 - **Room**
 - Jetpack Compose <img width="20" height="20" src="https://developer.android.com/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg"> , Compose Navigation
