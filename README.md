@@ -4,7 +4,6 @@
 
 
 ### soooo, I'm an *android developer* from Ukraine  <img align="right" height="25"  src="https://developer.android.com/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg"> <img align="right" height="25"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"> <img align="right" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Android_new_logo_2019.svg/1280px-Android_new_logo_2019.svg.png">
-### who is about to begin his career in mobile developement 
 ---
 - 📚 got a bachelor degree
 - 🛸 english level: **intermediate**
